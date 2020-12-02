@@ -1,0 +1,9 @@
+django
+scrapy
+elasticsearch==6.4.0
+elasticsearch-dsl==6.4.0
+// 个人电脑配置虚拟环境pip存在问题，暂未解决，考出的requirement不必要的库太多了，总之安装以上库即可运行。
+// There is a problem in the configuration of the virtual environment pip on the personal computer, which has not been solved yet. There are too many unnecessary libraries for the requirements. In short, the above libraries can be installed to run.
+
+// 项目需要elasticsearch的支持
+// The project needs elasticsearch support
